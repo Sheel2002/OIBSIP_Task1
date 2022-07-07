@@ -12,5 +12,5 @@ IDE = Visual Studio Code
   - CSS
   - Javascript 
 
-		Thank You.. :smile:
+	Thank You.. :smile:
   
